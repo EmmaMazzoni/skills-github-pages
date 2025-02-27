@@ -1,5 +1,4 @@
 ---
 title: Emma Mazzoni
-Heyyyy
 ---
 
